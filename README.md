@@ -1,5 +1,7 @@
 # Moltbot Social Media Skills
 
+Follow my channels: [Telegram]([url](https://t.me/xeniacodes)), [YouTube]([url](https://www.youtube.com/@xeniacodes))
+
 A curated collection of the top Moltbot (formerly Clawdbot/OpenClaw) skills focused on social media. These tools help with content creation, posting, scheduling, engagement, and more across platforms like X (Twitter), LinkedIn, Reddit, Instagram, TikTok, and others.
 
 Based on community discussions and threads from the last few days. Inspired by the awesome-moltbot-skills repo: [github.com/VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills).
