@@ -41,6 +41,9 @@ Based on community discussions and threads from the last few days. Inspired by t
 10. **Octolens** - Tracks brand mentions on Twitter, Reddit, GitHub, LinkedIn with sentiment analysis. Stay ahead of the buzz.  
     [Link](https://github.com/openclaw/skills/tree/main/skills/garrrikkotua/octolens)
 
+11. **ClawdTalk** - Phone calling and SMS for OpenClaw. Call your AI agent from any phone with deep tool integration for calendar, Jira, web search, and more. Powered by Telnyx.  
+    [Link](https://github.com/team-telnyx/clawdtalk-client)
+
 ## Installation & Usage
 To use these in your Moltbot setup:
 1. Clone the main skills repo: `git clone https://github.com/openclaw/skills`
